@@ -1,5 +1,7 @@
 let mapleader='\<Space>'
 
+set shell=/bin/bash\ -i
+
 set number
 
 set expandtab
